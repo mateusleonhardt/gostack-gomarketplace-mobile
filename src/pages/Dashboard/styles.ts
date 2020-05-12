@@ -21,7 +21,7 @@ export const ProductList = styled(FlatList).attrs({
 `;
 
 export const Product = styled.View`
-  background: #fff;
+  background: #44475a;
   padding: 16px 16px;
   border-radius: 5px;
   margin: 8px;
@@ -35,6 +35,7 @@ export const ProductImage = styled.Image`
 `;
 
 export const ProductTitle = styled.Text`
+  color: #f8f8f2;
   font-size: 14px;
   margin-top: 10px;
 `;
@@ -50,7 +51,7 @@ export const PriceContainer = styled.View`
 export const ProductPrice = styled.Text`
   font-weight: bold;
   font-size: 16px;
-  color: #e83f5b;
+  color: #bd93f9;
 `;
 
 export const ProductButton = styled.TouchableOpacity``;

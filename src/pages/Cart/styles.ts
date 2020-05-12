@@ -14,12 +14,11 @@ export const ProductContainer = styled.View`
 `;
 
 export const ProductList = styled(FlatList)`
-  flex: 1;
   padding: 0 10px;
 `;
 
 export const Product = styled.View`
-  background: #fff;
+  background: #44475a;
   padding: 15px 10px;
   border-radius: 5px;
   margin: 5px;
@@ -34,10 +33,11 @@ export const ProductImage = styled.Image`
 
 export const ProductTitleContainer = styled.View`
   font-size: 16px;
-  margin-left: 5px;
+  margin-left: 10px;
 `;
 
 export const ProductTitle = styled.Text`
+  color: #f8f8f2;
   font-size: 16px;
 `;
 
@@ -51,8 +51,8 @@ export const TotalContainer = styled.View`
 `;
 
 export const ProductSinglePrice = styled.Text`
-  font-size: 12px;
-  color: #a0a0b3;
+  font-size: 14px;
+  color: #bd93f9;
   margin-top: 8px;
 `;
 
@@ -61,7 +61,7 @@ export const ProductPrice = styled.Text`
   margin-top: 5px;
 
   font-size: 16px;
-  color: #e83f5b;
+  color: #50fa7b;
 `;
 
 export const ProductQuantity = styled.Text`
@@ -70,7 +70,7 @@ export const ProductQuantity = styled.Text`
   margin-right: 10px;
 
   font-size: 16px;
-  color: #e83f5b;
+  color: #50fa7b;
 `;
 
 export const ActionContainer = styled.View`
@@ -82,7 +82,7 @@ export const ActionContainer = styled.View`
 `;
 
 export const ActionButton = styled.TouchableOpacity`
-  background: rgba(232, 63, 91, 0.1);
+  background: rgba(80, 250, 123, 0.1);
   border-radius: 5px;
   padding: 12px;
   margin-bottom: 5px;
@@ -93,7 +93,7 @@ export const TotalProductsContainer = styled.View`
   bottom: 0px;
 
   flex-direction: row;
-  background: #e83f5b;
+  background: #6272a4;
 
   padding: 20px 40px;
   justify-content: space-between;

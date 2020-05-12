@@ -3,19 +3,19 @@
     {
       "id": "123",
       "title": "Nome do produto 01",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "image_url": "https://res.cloudinary.com/teepublic/image/private/s--w8SkF3hb--/t_Resized Artwork/c_crop,x_10,y_10/c_fit,w_470/c_crop,g_north_west,h_626,w_470,x_0,y_0/g_north_west,u_upload:v1462829013:production:blanks:cau9y2yr6rnvk9qkrf1h,x_-395,y_-325/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1584381766/production/designs/8509529_0.jpg",
       "price": 50
     },
     {
       "id": "1234",
       "title": "Nome do produto 02",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "image_url": "https://res.cloudinary.com/teepublic/image/private/s--8TcDA7EV--/t_Resized Artwork/c_crop,x_10,y_10/c_fit,w_470/c_crop,g_north_west,h_626,w_470,x_0,y_0/g_north_west,u_upload:v1462829019:production:blanks:eabj4jnnotiueowzmy6k,x_-395,y_-325/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1514467284/production/designs/2229613_1.jpg",
       "price": 60
     },
     {
       "id": "12345",
       "title": "Nome do produto 03",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "image_url": "https://res.cloudinary.com/teepublic/image/private/s--69C87KrR--/t_Resized Artwork/c_crop,x_10,y_10/c_fit,h_626/c_crop,g_north_west,h_626,w_470,x_-101,y_0/g_north_west,u_upload:v1462829016:production:blanks:z4jtymp7j16d6pgpvkl4,x_-496,y_-325/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1551780512/production/designs/4341617_0.jpg",
       "price": 70
     },
     {
